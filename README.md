@@ -4,7 +4,7 @@
 
 [Git branch](https://qiita.com/chihiro/items/e178e45a7fd5a2fb4599)
 ## java
-[コンストラクタとは？](https://nobuo-create.net/java-beginner-20/)
+[コンストラクタ](https://nobuo-create.net/java-beginner-20/)
 
 ## 作るもの
 
