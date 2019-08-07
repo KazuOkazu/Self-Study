@@ -6,9 +6,9 @@
 ## java
 [コンストラクタ](https://nobuo-create.net/java-beginner-20/)
 
-## 作るもの
+[ファイル・チューザ](http://slime5963.hatenablog.com/entry/2017/12/01/081653)
 
-[概要テンプレート](https://docs.google.com/spreadsheets/d/14YSuZ1VoPaUyF6fRM0tfnF8jo9x9kduDB0BQM5QL4LA/edit#gid=739377621)
+## 作るもの
 
 [電卓](https://docs.google.com/spreadsheets/d/14YSuZ1VoPaUyF6fRM0tfnF8jo9x9kduDB0BQM5QL4LA/edit#gid=0)
 
