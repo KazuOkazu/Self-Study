@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.BorderPane?>
+
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="application.WarningController">
+   <center>
+      <TitledPane animated="false" text="警告" BorderPane.alignment="CENTER">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="295.0">
+               <children>
+                  <Label fx:id="WarningText" layoutX="42.0" layoutY="60.0" prefHeight="60.0" prefWidth="212.0" />
+               </children>
+            </AnchorPane>
+        </content>
+      </TitledPane>
+   </center>
+</BorderPane>
