@@ -10,6 +10,8 @@
 
 [LinkedList](https://java-reference.com/java_collection_linkedlist.html)
 
+[判別](http://www.kenmiya.info/?p=115)
+
 ## 作るもの
 
 [電卓](https://docs.google.com/spreadsheets/d/14YSuZ1VoPaUyF6fRM0tfnF8jo9x9kduDB0BQM5QL4LA/edit#gid=0)
